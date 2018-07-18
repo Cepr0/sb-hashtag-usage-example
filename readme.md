@@ -1,0 +1,1 @@
+Spring Boot hashtag usage example project for the SO [answer](https://stackoverflow.com/a/51391475).
